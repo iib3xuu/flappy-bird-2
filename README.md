@@ -18,7 +18,7 @@ The game features a catchy background music track that plays continuously, enhan
 If you'd like to contribute to Flappy Bird 2, feel free to fork the repository and submit a pull request. Any improvements, bug fixes or new features are welcome! 🌈
 
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 Special thanks to the creators of Pygame for providing a fantastic library for game development and thanks to the community for their support and feedback! 
