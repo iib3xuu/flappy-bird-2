@@ -2,11 +2,11 @@
 Welcome to **Flappy Bird 2!** This is a fun and addictive game where you control a bird and navigate through a series of pipes. The objective is to keep the bird in the air by tapping the space bar to flap its wings and avoid colliding with the pipes.
 
 ## 🌟 Features
- Press the space bar to make the bird flap. 🕹️
-Avoid pipes and score points for each pipe you pass. 🏆
-Keep track of your highest score achieved during gameplay. 📈
-The bird has a flapping animation for a more dynamic experience. 🐦
-Displays your score and high score with an option to play again. 💔➡️💖
+Press the space bar to make the bird flap.
+Avoid pipes and score points for each pipe you pass.
+Keep track of your highest score achieved during gameplay.
+The bird has a flapping animation for a more dynamic experience.
+Displays your score and high score with an option to play again.
 
 ## 🎶 Background Music
 The game features a catchy background music track that plays continuously, enhancing your gaming experience. 🎵
